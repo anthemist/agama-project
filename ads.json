@@ -1,1 +1,17 @@
-{}
+{
+    "demo": {
+        "projectName": "demo",
+        "description": "Lorem ipsum dolor sit amet",
+        "type": "community",
+        "author": "anthemist",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/anthemist/agama-project",
+        "githubUri": "https://github.com/anthemist/agama-project",
+        "license": "MIT",
+        "lastUpdated": "1694231858037",
+        "tags": [
+            "authentication"
+        ],
+        "noDirectLaunch": []
+    }
+}
